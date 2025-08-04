@@ -6,7 +6,7 @@
 
 ## Overview
 
-**pawd** is an open source ecosystem designed to bring together pet owners, service providers, and community creators through a modular, extensible suite of services. Whether it’s booking a pet photographer, finding a vet, or sharing adorable pet moments, pawd provides the foundation for a connected pet community—all built on modern .NET technologies.
+**pawd** is an open source ecosystem designed to bring together pet owners, service providers, and community creators through a modular, extensible suite of services. Whether it’s booking a pet photographer, finding a vet, or sharing adorable pet moments, pawd provides the foundation for a connected pet community - all built on modern .NET technologies.
 
 ---
 
@@ -15,7 +15,7 @@
 The pawd ecosystem follows clean, modular design principles and is composed of several independently developed services:
 
 ### 🟢 Auth Service (`pawd.Auth`)
-- Provides secure user authentication and authorization across the pawd ecosystem
+- Provides secure user authentication and authorisation across the pawd ecosystem
 - Implements OAuth2 flows (password and authorization code grants) using OpenIddict
 - Built for easy integration with other pawd services
 
